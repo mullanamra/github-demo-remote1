@@ -4,13 +4,13 @@ def add(x,y):
 
 #Subtract implementation
 def subtract(x,y):
-    return x-y             
+    pass             
 
 #Multiply implementation
 def multiply(x,y):
-    return x*y
+    pass
 
 #Divide implementation
 def division(x,y):
-    return x*x
+    pass
 
